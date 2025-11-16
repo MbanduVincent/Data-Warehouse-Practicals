@@ -1,0 +1,7 @@
+jupyter 
+notebook
+pandas 
+psycopg2-binary 
+sqlalchemy
+matplotlib
+dash
